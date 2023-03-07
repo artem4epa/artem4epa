@@ -6,6 +6,7 @@
 
 
 # My Yandex-practicum projects:
+* [Сайт для хранения рецептов с возможностью подписки на авторов и выгрузки списка ингредиентов](https://github.com/artem4epa/foodgram-project-react)
 * [Социальная сеть для блоггеров Yatube](https://github.com/artem4epa/hw05_final)  
 * [API и документация для приложения Yatube](https://github.com/artem4epa/api_final_yatube)  
 * [Проект API_YAMDB - групповой проект](https://github.com/artem4epa/api_yamdb-1)  
